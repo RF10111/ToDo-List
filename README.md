@@ -1,7 +1,7 @@
-# 📝 To-Do App (Fullstack Project)
+# 📝 To-Do App 
 
-Proyek ini adalah aplikasi **To-Do List** berbasis **Fullstack JavaScript** yang terdiri dari **backend API** menggunakan **Express.js** dan **frontend web** modern.  
-Aplikasi ini dirancang untuk menampilkan praktik terbaik dalam pengembangan aplikasi, mulai dari **CRUD lengkap**, **filtering & searching**, hingga **keamanan API** dan **UX interaktif**.  
+Aplikasi To-Do **berbasis web** yang dirancang sebagai asisten digital dalam mengatur aktivitas sehari-hari.  
+Dengan fitur yang **lengkap** dan tampilan **interaktif**, sistem ini membantu pengguna mencatat, memantau, serta menyelesaikan tugas secara lebih efisien, terorganisir, dan mudah diakses kapan saja.
 
 ---
 
